@@ -1,7 +1,7 @@
 ```
 NAME : Surya prakash B
 REG-NO : 212224230281
-DATE :27/02/2025
+DATE :27-02-2025
 ```
 #  EXP-1 : Mean and variance of a discrete  distribution 
 # Aim : 
